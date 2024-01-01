@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Rabout and I'm a voyager in the realm of Software Engineering, channeling a lifelong passion for tech into transformative coding journeys!</h2>
+<h1 align="center">Hey 👋, I'm Adam Rabout</h1>
+<h3 align="center">A passionate Software Engineer from Houston, Texas</h3>
 
 ###
 
